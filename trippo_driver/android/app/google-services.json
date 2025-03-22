@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "866562531896",
+    "project_id": "trippo-e903d",
+    "storage_bucket": "trippo-e903d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866562531896:android:6f1a6587376fd6016fbccd",
+        "android_client_info": {
+          "package_name": "com.example.trippo_driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_8RHPbKom9m_dZ-6o-UtI8jlW6v7oeJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866562531896:android:edfa2d3a7efe9c786fbccd",
+        "android_client_info": {
+          "package_name": "dev.hyderali.trippo_driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_8RHPbKom9m_dZ-6o-UtI8jlW6v7oeJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866562531896:android:b18e1f04ee5f8b406fbccd",
+        "android_client_info": {
+          "package_name": "dev.hyderali.trippo_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_8RHPbKom9m_dZ-6o-UtI8jlW6v7oeJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
